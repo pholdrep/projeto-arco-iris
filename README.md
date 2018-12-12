@@ -1,9 +1,10 @@
 # projeto-arco-iris
 
-##Equipa:
+## Equipa:
 
 - Aida
 - Nelson
 - Pedro
 - Júlia
+- Maria
 
